@@ -1,4 +1,4 @@
-class Song:class Song:
+class Song:
     # Class attributes
     total_songs = 0
     all_artists = []
